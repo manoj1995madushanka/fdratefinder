@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "bankName": "Sampath Bank",
+    "daysPackages": [
+      {
+        "name": "100 Days",
+        "dayCount": 100,
+        "minAmount": 1000000,
+        "interestRatePerAnnual": 9
+      },
+      {
+        "name": "200 Days",
+        "dayCount": 200,
+        "minAmount": 1000000,
+        "interestRatePerAnnual": 10.0
+      },
+      {
+        "name": "300 Days",
+        "dayCount": 300,
+        "minAmount": 1000000,
+        "interestRatePerAnnual": 10.0
+      }
+    ],
+    "standard": [
+      {
+        "periodInMonths": 1,
+        "maturityInterestPerAnnual": 9.0,
+        "monthlyInterestPerAnnual": 0.0
+      },
+      {
+        "periodInMonths": 2,
+        "maturityInterestPerAnnual": 9.0,
+        "monthlyInterestPerAnnual": 0.0
+      },
+      {
+        "periodInMonths": 3,
+        "maturityInterestPerAnnual": 11.5,
+        "monthlyInterestPerAnnual": 0.0
+      },
+      {
+        "periodInMonths": 4,
+        "maturityInterestPerAnnual": 11.5,
+        "monthlyInterestPerAnnual": 0.0
+      },
+      {
+        "periodInMonths": 6,
+        "maturityInterestPerAnnual": 10.0,
+        "monthlyInterestPerAnnual": 0.0
+      },
+      {
+        "periodInMonths": 7,
+        "maturityInterestPerAnnual": 10.0,
+        "monthlyInterestPerAnnual": 0.0
+      },
+      {
+        "periodInMonths": 12,
+        "maturityInterestPerAnnual": 10.0,
+        "monthlyInterestPerAnnual": 9.5
+      },
+      {
+        "periodInMonths": 13,
+        "maturityInterestPerAnnual": 10.5,
+        "monthlyInterestPerAnnual": 10.0
+      },
+      {
+        "periodInMonths": 24,
+        "maturityInterestPerAnnual": 11.5,
+        "monthlyInterestPerAnnual": 10.25
+      },
+      {
+        "periodInMonths": 36,
+        "maturityInterestPerAnnual": 12.0,
+        "monthlyInterestPerAnnual": 10.25
+      },
+      {
+        "periodInMonths": 48,
+        "maturityInterestPerAnnual": 11.0,
+        "monthlyInterestPerAnnual": 9.0
+      },
+      {
+        "periodInMonths": 60,
+        "maturityInterestPerAnnual": 11.50,
+        "monthlyInterestPerAnnual": 9.0
+      }
+    ]
+  }
+]
